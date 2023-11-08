@@ -1,4 +1,4 @@
-# ChatGLM-6B 桌面对话环境一键包
+# ChatGLM-6B 桌面对话环境一键整合包
 
 ## 功能
 
@@ -33,6 +33,13 @@ https://github.com/kwwwvagaa/NetWinformControl
 
 **由于空间的原因，本目录中仅包含源文件部分，不包含模型文件及Python环境依赖，请 ✫Star后移步百度网盘下载完整的程序包，Cuda与Cudnn驱动也包含在内。
 ******
+
+一键整合包
+
+链接：
+https://pan.baidu.com/s/1vcZWyQD4L4-o8b7Js8riBA?pwd=xjyo 
+
+
 ## 硬件要求
 
 CPU主频3G以上，至少4核心，32G内存
@@ -48,9 +55,13 @@ CPU主频3G以上，至少4核心，32G内存
 
 ## 特别关注
 
-目前ChatGLM3已于前日正式发布在官方主页，ChatGLM3具有更快的推理速度，更精确的回答，并支持原生工具链，作者正在365996研究，待调通后会更新尽快提供给大家，敬请期待...也欢迎您一同加入ChatGLM3的开发队伍。
+目前ChatGLM3已于前日正式发布在官方主页
 
 https://github.com/THUDM/ChatGLM3
+
+ChatGLM3具有更快的推理速度，更精确的回答，并支持原生工具链，作者正在365996研究，待调通后会更新尽快提供给大家，敬请期待...也欢迎您一同加入ChatGLM3的开发队伍。
+
+
 
 ## QQ群
 
