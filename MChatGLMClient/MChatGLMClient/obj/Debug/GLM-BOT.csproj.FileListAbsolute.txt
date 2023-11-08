@@ -1,0 +1,84 @@
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\bin\Debug\GLM-BOT.exe.config
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\bin\Debug\GLM-BOT.exe
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\bin\Debug\GLM-BOT.pdb
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\bin\Debug\HZH_Controls.dll
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\bin\Debug\System.Buffers.dll
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\bin\Debug\System.Memory.dll
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\bin\Debug\System.Security.AccessControl.dll
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\bin\Debug\System.Text.Json.dll
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\bin\Debug\System.ValueTuple.dll
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\bin\Debug\System.Buffers.xml
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\bin\Debug\System.Memory.xml
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\bin\Debug\System.Security.AccessControl.xml
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\bin\Debug\System.Text.Json.xml
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\bin\Debug\System.ValueTuple.xml
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\obj\Debug\GLM-BOT.csproj.AssemblyReference.cache
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\obj\Debug\GLM-BOT.csproj.SuggestedBindingRedirects.cache
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\obj\Debug\GLM_BOT.FrmMain.resources
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\obj\Debug\GLM_BOT.Properties.Resources.resources
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\obj\Debug\GLM-BOT.csproj.GenerateResource.cache
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\obj\Debug\GLM-BOT.csproj.CoreCompileInputs.cache
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\obj\Debug\GLM-BOT.csproj.CopyComplete
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\obj\Debug\GLM-BOT.exe
+C:\Users\stone\Desktop\GLM-BOT\GLM-BOT\obj\Debug\GLM-BOT.pdb
+D:\BaiduNetdiskDownload\ChatGLM API\ChatGLM-Client\GLM-BOT\bin\Debug\GLM-BOT.exe.config
+D:\BaiduNetdiskDownload\ChatGLM API\ChatGLM-Client\GLM-BOT\bin\Debug\GLM-BOT.exe
+D:\BaiduNetdiskDownload\ChatGLM API\ChatGLM-Client\GLM-BOT\bin\Debug\GLM-BOT.pdb
+D:\BaiduNetdiskDownload\ChatGLM API\ChatGLM-Client\GLM-BOT\bin\Debug\HZH_Controls.dll
+D:\BaiduNetdiskDownload\ChatGLM API\ChatGLM-Client\GLM-BOT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BaiduNetdiskDownload\ChatGLM API\ChatGLM-Client\GLM-BOT\bin\Debug\Newtonsoft.Json.dll
+D:\BaiduNetdiskDownload\ChatGLM API\ChatGLM-Client\GLM-BOT\bin\Debug\System.Buffers.dll
+D:\BaiduNetdiskDownload\ChatGLM API\ChatGLM-Client\GLM-BOT\bin\Debug\System.Memory.dll
+D:\BaiduNetdiskDownload\ChatGLM API\ChatGLM-Client\GLM-BOT\bin\Debug\System.Numerics.Vectors.dll
+D:\BaiduNetdiskDownload\ChatGLM API\ChatGLM-Client\GLM-BOT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BaiduNetdiskDownload\ChatGLM API\ChatGLM-Client\GLM-BOT\bin\Debug\System.Security.AccessControl.dll
+D:\BaiduNetdiskDownload\ChatGLM API\ChatGLM-Client\GLM-BOT\bin\Debug\System.Security.Principal.Windows.dll
+D:\BaiduNetdiskDownload\ChatGLM API\ChatGLM-Client\GLM-BOT\bin\Debug\System.Text.Encodings.Web.dll
+D:\BaiduNetdiskDownload\ChatGLM API\ChatGLM-Client\GLM-BOT\bin\Debug\System.Text.Json.dll
+D:\BaiduNetdiskDownload\ChatGLM API\ChatGLM-Client\GLM-BOT\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\BaiduNetdiskDownload\ChatGLM API\ChatGLM-Client\GLM-BOT\bin\Debug\System.ValueTuple.dll
+D:\BaiduNetdiskDownload\ChatGLM API\ChatGLM-Client\GLM-BOT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\BaiduNetdiskDownload\ChatGLM API\ChatGLM-Client\GLM-BOT\bin\Debug\Newtonsoft.Json.xml
+D:\BaiduNetdiskDownload\ChatGLM API\ChatGLM-Client\GLM-BOT\bin\Debug\System.Buffers.xml
+D:\BaiduNetdiskDownload\ChatGLM API\ChatGLM-Client\GLM-BOT\bin\Debug\System.Memory.xml
+D:\BaiduNetdiskDownload\ChatGLM API\ChatGLM-Client\GLM-BOT\bin\Debug\System.Numerics.Vectors.xml
+D:\BaiduNetdiskDownload\ChatGLM API\ChatGLM-Client\GLM-BOT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BaiduNetdiskDownload\ChatGLM API\ChatGLM-Client\GLM-BOT\bin\Debug\System.Security.AccessControl.xml
+D:\BaiduNetdiskDownload\ChatGLM API\ChatGLM-Client\GLM-BOT\bin\Debug\System.Security.Principal.Windows.xml
+D:\BaiduNetdiskDownload\ChatGLM API\ChatGLM-Client\GLM-BOT\bin\Debug\System.Text.Encodings.Web.xml
+D:\BaiduNetdiskDownload\ChatGLM API\ChatGLM-Client\GLM-BOT\bin\Debug\System.Text.Json.xml
+D:\BaiduNetdiskDownload\ChatGLM API\ChatGLM-Client\GLM-BOT\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\BaiduNetdiskDownload\ChatGLM API\ChatGLM-Client\GLM-BOT\bin\Debug\System.ValueTuple.xml
+D:\BaiduNetdiskDownload\ChatGLM API\ChatGLM-Client\GLM-BOT\obj\Debug\GLM-BOT.csproj.AssemblyReference.cache
+D:\BaiduNetdiskDownload\ChatGLM API\ChatGLM-Client\GLM-BOT\obj\Debug\GLM_BOT.FrmMain.resources
+D:\BaiduNetdiskDownload\ChatGLM API\ChatGLM-Client\GLM-BOT\obj\Debug\GLM_BOT.Properties.Resources.resources
+D:\BaiduNetdiskDownload\ChatGLM API\ChatGLM-Client\GLM-BOT\obj\Debug\GLM-BOT.csproj.GenerateResource.cache
+D:\BaiduNetdiskDownload\ChatGLM API\ChatGLM-Client\GLM-BOT\obj\Debug\GLM-BOT.csproj.CoreCompileInputs.cache
+D:\BaiduNetdiskDownload\ChatGLM API\ChatGLM-Client\GLM-BOT\obj\Debug\GLM-BOT.csproj.CopyComplete
+D:\BaiduNetdiskDownload\ChatGLM API\ChatGLM-Client\GLM-BOT\obj\Debug\GLM-BOT.exe
+D:\BaiduNetdiskDownload\ChatGLM API\ChatGLM-Client\GLM-BOT\obj\Debug\GLM-BOT.pdb
+C:\D\projects\aig\ChatGLM-6B\MChatGLMClient\GLM-BOT\obj\Debug\GLM-BOT.csproj.AssemblyReference.cache
+C:\D\projects\aig\ChatGLM-6B\MChatGLMClient\GLM-BOT\obj\Debug\GLM-BOT.csproj.GenerateResource.cache
+C:\D\projects\aig\ChatGLM-6B\MChatGLMClient\GLM-BOT\obj\Debug\GLM-BOT.csproj.CoreCompileInputs.cache
+C:\D\projects\aig\ChatGLM-6B\MChatGLMClient\GLM-BOT\obj\Debug\GLM-BOT.csproj.CopyComplete
+C:\D\projects\aig\ChatGLM-6B\ChatGLMClient.exe.config
+C:\D\projects\aig\ChatGLM-6B\MChatGLMClient\GLM-BOT\obj\Debug\ChatGLMClient.exe
+C:\D\projects\aig\ChatGLM-6B\MChatGLMClient\GLM-BOT\obj\Debug\ChatGLMClient.pdb
+C:\D\projects\aig\ChatGLM-6B\ChatGLMClient.exe
+C:\D\projects\aig\ChatGLM-6B\ChatGLMClient.pdb
+C:\D\projects\aig\ChatGLM-6B\MChatGLMClient\GLM-BOT\obj\Debug\ChatGLMClient.Properties.Resources.resources
+C:\D\projects\aig\ChatGLM-6B\MChatGLMClient\GLM-BOT\obj\Debug\ChatGLMClient.FrmMain.resources
